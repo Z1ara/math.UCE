@@ -21,7 +21,7 @@ Algoritmo CalcularR
         Leer z
     FinMientras
     
-    // Cálculo de R
+    // CÃ¡lculo de R
     R = (0.08 * x / (0.004 * w) + 1.5 * z) ^ (1 / 5)
     
     Escribir "El valor de R es: ", R
