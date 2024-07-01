@@ -31,10 +31,10 @@ Proceso RolDePagos
     Escribir "Fondo de Reservas Mensualizado: ", reservas
     Escribir "Total ingresos: ", totalGanado
     Escribir "Aporte personal 9.45%: ", aportePersonal
-    Escribir "Líquidos a recibir: ", liquidoRecibir
+    Escribir "LÃ­quidos a recibir: ", liquidoRecibir
     Escribir "Otros ingresos de ley:"
-    Escribir "Décimo tercero: ", decimoTercero
-    Escribir "Décimo cuarto: ", decimoCuarto
+    Escribir "DÃ©cimo tercero: ", decimoTercero
+    Escribir "DÃ©cimo cuarto: ", decimoCuarto
     Escribir "Vacaciones: ", vacaciones
     Escribir "Total otros ingresos de ley: ", sumaIngresosLey
 	Escribir "Gracias por confiar en nuestro software de Rol de Pagos"
