@@ -23,6 +23,16 @@ ___________________________________________________________________________
 
 **Clase 10**: DERIVADAS 🖊️
 
+**Clase 11**: SERIES, LÍMITES, CONTINUIDAD Y DERIVADAS🖊️
+
+**Clase 12**: PYTHON: FUNCIONES Y ESTRUCTURAS + APLICACIONES MATEMÁTICAS 🐍
+
+**Clase 13**: REPASO INTESIVO: LÓGICA MATEMÁTICA, PYTHON Y TEORÍA DE CONJUNTOS 👩🏻‍🏫
+
+**Clase 14**: RESOLVIENDO PROBLEMAS REALES CON PROGRAMACIÓN: CÁLCULO DE COSTO DE BALDOSAS. 🤓
+
+**PREGUNTAS**: BANCO DE PREGUNTAS DESDE LA CLASE 1 A LA 14 🙀
+
 📜**CODE**
 ____________________________________________________________________________
 -***Pseudocódigos de PSeint***
