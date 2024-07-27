@@ -1,5 +1,5 @@
 👋 Hola Bienvenido a mi Repositorio de Matemática y Programación
-Donde, abarca recursos con la ayuda de varias herramientas, tales como Google Colab, PSeiny y Pyhton 📚💻
+Donde, abarca recursos con la ayuda de varias herramientas, tales como Google Colab, PSeint y Pyhton 📚💻
 -
 👀 **CONTENIDOS** 
 ___________________________________________________________________________
